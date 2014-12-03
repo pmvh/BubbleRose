@@ -1,4 +1,7 @@
 BubbleRose
 ==========
 
-Bubble chart and Rose diagram in R
+Bubbleplot and Rose diagram in R
+
+Created 03.12.14
+
